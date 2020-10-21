@@ -44,7 +44,7 @@ why they are used.
 > hard to decide the rule for determining outliers.
 >  
 - Explain the concerns and benefits of imputing. Suggest alternatives for binning and why they might be used.
-> Imputing may bring positive outcome but not always, 
+> Imputing may bring positive outcome but not always 
 Logistic regression:
 
 - Know what a sigmoid function is used for and what it looks like. Be able to draw it.
